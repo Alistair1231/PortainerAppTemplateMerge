@@ -2,10 +2,13 @@
 Merges templates and serves them
 
 By default it merges  
-"https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json",
-"https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json"
+https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json  
+and  
+https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json  
 
 Updates once a day automatically.
+
+## Setup
 
 ```
 git clone https://github.com/Alistair1231/PortainerAppTemplateMerge/
